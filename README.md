@@ -7,7 +7,6 @@ The notebooks are designed to be transparent and easy to adapt for your own mark
 
 ## Repository structure
 
-```text
 .
 ├─ notebooks/
 │  ├─ BEA-Import-Scripts.ipynb
@@ -15,8 +14,6 @@ The notebooks are designed to be transparent and easy to adapt for your own mark
 │  ├─ BEA-File-Import-Growth-Analysis.ipynb
 │  ├─ BLS-Establishments-Data-Prep.ipynb
 │  └─ Census-SUBS-Data-Preparation.ipynb
-├─ data/
-│  └─ .gitkeep          # put downloaded source files here (not tracked)
 ├─ env/
 │  └─ requirements.txt
 └─ README.md
